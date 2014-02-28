@@ -1,0 +1,9 @@
+Assuming you have restafari built, from this directory, launch it.
+
+Ensure that you have a MongoDB instance running and available to the mBaaS.
+Ensure that MongoDB has a database named "mboss".
+Ensure that MongoDB has a collection named "chat".
+
+Then hit http://127.0.0.1:8080/app/index.html
+
+
